@@ -1,10 +1,5 @@
 let bteTpll = document.getElementById("bteTpll");
 
-chrome.storage.sync.get("color", ({ color }) => {
-  changeColor.style.backgroundColor = color;
-  changeColor1.style.backgroundColor = "blue";
-});
-
 bteTpll.addEventListener("click", async () => {
   let [tab] = await chrome.tabs.query({ active: true, currentWindow: true });
 
