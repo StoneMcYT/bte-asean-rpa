@@ -1,0 +1,20 @@
+{
+    "name": "BTE tpll extractor",
+    "description": "Select points on each corner of a building and automatically generate a text file for the bot.",
+    "version": "1.0",
+    "manifest_version": 3,
+    "background": {
+        "service_worker": "background.js"
+    },
+    "permissions": ["storage", "activeTab", "scripting"],
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "content_scripts": [
+        {
+            "matches": ["*://*.google.com/maps/*"],
+            "js": ["inject.js"]
+        }
+    ],
+    "host_permissions": ["<all_urls>"]
+}
