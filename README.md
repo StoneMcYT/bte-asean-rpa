@@ -1,5 +1,5 @@
 <table><tbody><tr><td><b>
-<h1>BTE ASEAN TPLL RPA <img src="https://raw.githubusercontent.com/ASEAN-Build-The-Earth/private/main/util/assets/logo/aseanbte_logo.gif?token=GHSAT0AAAAAABKHZHJCE2KGZVQ54F4HAM5SYPVQKSA" alt="_LOGO_" width="5%" height="5%" img align="Left"/></h1>
+<h1>BTE ASEAN TPLL RPA <img src="https://i.imgur.com/Qf3TC6w.gif" alt="_LOGO_" width="5%" height="5%" img align="Left"/></h1>
 A tool to semi-automatically copy and paste tpll coordinates from Google Maps to Minecraft in a faster and efficient way.
 
 <div align="Right"><sub>licensed by <a href="https://github.com/Codestian">Codestain</a><hr/>
