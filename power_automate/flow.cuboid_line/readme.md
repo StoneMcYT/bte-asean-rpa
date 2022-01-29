@@ -24,6 +24,12 @@
 
 ---
 
+# pre request
+- the bot will prompt you a message to get ready
+    - you must be in fly mode 
+    - holding a wooden axe on hand (world edit wand)
+    - facing downward the floor (else the bot will click the world edit position somewhere else)
+    
 # config
 - edit the `TPLL_HEIGHT` number config at [this line](https://github.com/ASEAN-Build-The-Earth/bte-asean-rpa/blob/d6ecd4e7b33fe4e18bdab4c1ccd42a6ae08d6b14/power_automate/flow.cuboid_line/copy-me.yaml#L3) to change what Y level the bot will tpll to
     - as well as `ActionDelay` and `OnReady`, increase it if you are having high ping in the server the bot will delay every action longer
