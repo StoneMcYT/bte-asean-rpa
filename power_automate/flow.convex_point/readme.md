@@ -28,4 +28,4 @@
 - edit the `TPLL_HEIGHT` number config at [this line](https://github.com/ASEAN-Build-The-Earth/bte-asean-rpa/blob/d6ecd4e7b33fe4e18bdab4c1ccd42a6ae08d6b14/power_automate/flow.cuboid_line/copy-me.yaml#L3) to change what Y level the bot will tpll to
     - as well as `ActionDelay` and `OnReady`, increase it if you are having high ping in the server the bot will delay every action longer
 
-- you can edit the block to create curve at [this line]https://github.com/ASEAN-Build-The-Earth/bte-asean-rpa/blob/d6ecd4e7b33fe4e18bdab4c1ccd42a6ae08d6b14/power_automate/flow.convex_point/copy-me.yaml#L61) at `//command` command
+- you can edit the block to create curve at [this line](https://github.com/ASEAN-Build-The-Earth/bte-asean-rpa/blob/d6ecd4e7b33fe4e18bdab4c1ccd42a6ae08d6b14/power_automate/flow.convex_point/copy-me.yaml#L61) at `//command` command
