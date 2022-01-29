@@ -18,7 +18,7 @@
 
 </td></tr></tbody></table>
 <table><tbody><tr><td><sub><b>
-3. after setting all the positions, <code>//curve 35:5</code> by the convex position set eariler
+5. after setting all the positions, <code>//curve 35:5</code> by the convex position set eariler
 
 </td></tr></tbody></table>
 
