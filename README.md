@@ -8,8 +8,8 @@ A tool to allows you to copy coordinates from Google Maps to Minecraft.
 ## 📑 requirements
 - Windows 10 or newer 
 - Googgle Chrome 
-- A microsoft account 
-- [power automate desktop](https://powerautomate.microsoft.com/en-us/desktop/)
+- Power automate desktop 
+  - Note you are required to have a microsoft account to install [power automate desktop](https://powerautomate.microsoft.com/en-us/desktop/)
 ---
 ## ⚠️ pre request
 - **DO NOT** try to use this if you dont fit the requirement.
