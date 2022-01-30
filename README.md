@@ -1,37 +1,36 @@
 <table><tbody><tr><td><b>
 <h1>BTE ASEAN TPLL RPA <img src="https://i.imgur.com/Qf3TC6w.gif" alt="_LOGO_" width="5%" height="5%" img align="Left"/></h1>
-A tool to semi-automatically copy and paste tpll coordinates from Google Maps to Minecraft in a faster and efficient way.
+A tool to allows you to copy coordinates from Google Maps to Minecraft.
 
 <div align="Right"><sub>licensed by <a href="https://github.com/Codestian">Codestain</a><hr/>
 </td></tr></tbody></table>
      
 ## 📑 requirements
-- any kind of window 10/11 desktop
-- chrome
-- microsoft email *(`@hotmail.com` account)*
+- Windows 10 or newer 
+- Googgle Chrome 
+- A microsoft account 
 - [power automate desktop](https://powerautomate.microsoft.com/en-us/desktop/)
-- *a willing to sign up and download external app*
 ---
 ## ⚠️ pre request
 - **DO NOT** try to use this if you dont fit the requirement.
-- this tool is client-side only, the bot could broke if you have very high ping in the server.
+- this tool is client-side only, the bot could break and fail if you have a very high ping in the server.
 - <details><summary>why you should try this tool</summary>
 
-     - build-the-earth manual tpll workflow for SEA country is painful and slow.
+     - Increases efficiency as building outlines in Southeastern asia is slow and inefficient. 
      - since its client side, you can use this tool anywhere(not just in this build team).
 </details>
 
 ---
 ## 📥 What it contains 
-The tool comprises of two components. To begin using the tool, download this repository and follow the installation instructions.
-
+ The tool comprises two major components: a google chrome extension and power automate scripts.
+     
 ---
 ## 1️⃣: Google Chrome Extension
 Used to collate the tplls the end user has selected and exports them to a text file.
 
 #### 📩 Installation
 
-0. download this repository to your local desktop
+0. download this repository to your computer
 1. Open Google Chrome and go to chrome://extensions/.
 2. Ensure developer mode is on.
 3. Click on the `Load unpacked` button and navigate to [your_desktop/bte-asean-rpa/extension](https://github.com/ASEAN-Build-The-Earth/bte-asean-rpa/tree/main/extension) folder.
