@@ -1,14 +1,14 @@
 <table><tbody><tr><td><b>
 <h1>BTE ASEAN TPLL RPA <img src="https://i.imgur.com/Qf3TC6w.gif" alt="_LOGO_" width="5%" height="5%" img align="Left"/></h1>
-A tool to allows you to copy coordinates from Google Maps to Minecraft.
+A tool that semi-automatically copies and pastes coordinates from Google Maps to Minecraft which is both fast and efficient!
 
 <div align="Right"><sub>licensed by <a href="https://github.com/Codestian">Codestain</a><hr/>
 </td></tr></tbody></table>
      
 ## 📑 requirements
 - Windows 10 or newer 
-- Googgle Chrome 
-- Power automate desktop 
+- Google Chrome 
+- [Power automate desktop](https://powerautomate.microsoft.com/en-us/desktop/)
   - Note you are required to have a microsoft account to install [power automate desktop](https://powerautomate.microsoft.com/en-us/desktop/)
 ---
 ## ⚠️ pre request
